@@ -1,4 +1,7 @@
-package LeetCode;
+// Add digits until it became less than 10 or single value.
+
+
+package LeetCode.Math;
 
 public class LC_258 {
 
